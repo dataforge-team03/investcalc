@@ -1,0 +1,9 @@
+{
+  "projectName": "CRM для отдела продаж",
+  "capex": 500000,
+  "opex": 120000,
+  "trainingCosts": 80000,
+  "periodYears": 3,
+  "expectedSavingsPerYear": 300000,
+  "expectedRevenueGrowthPerYear": 200000
+}
